@@ -1,0 +1,24 @@
+Useful Links in Neuroscience
+
+1.	NEURON Simulator: http://www.neuron.yale.edu/neuron/ and Forum :http://www.neuron.yale.edu/phpbb/
+2.	GENESIS Simulator : http://www.genesis-sim.org/GENESIS/
+3.	Computational Neuroscience on the Web: http://home.earthlink.net/~perlewitz/index.html
+4.	comp neuro mailling list :http://www.neuroinf.org/mailman/listinfo/comp-neuro
+5.	HHsim: Graphical Hodkin Huxley SImulator:http://www.cs.cmu.edu/~dst/HHsim/
+6.	Society For Neuroscience: http://www.sfn.org/
+7.	Neuroscience Information Framework: http://www.neuinfo.org/
+8.	Neurodroid- NEURON Simulator Android App: https://play.google.com/store/apps/details?id=csh.neurodroid&hl=en-GB
+9.	Coursera Computational Neuroscience Course: https://www.coursera.org/course/compneuro
+10.	http://www.neuinfo.org/
+11.	Medical Neuroscience Resources:https://class.coursera.org/medicalneuro-001/wiki/view?page=notes
+12.	Green Brain Project: http://www.greenbrainproject.org/
+13.	Green Bee Brain Project: http://greenbrainproject.co.uk/
+14.	Models of Neurons: http://dynamicbrain.neuroinf.jp/modules/xoonips/itemselect.php?op=itemtypesearch&search_itemtype=xnpmodel
+15.	Neuromopho: http://neuromorpho.org/neuroMorpho/byregion.jsp
+16.	Openworm: http://www.openworm.org/index.html
+17.	Whole Brain Catalog: http://wholebraincatalog.org/about.shtm
+18.	Cell Centred Database USCD : http://ccdb.ucsd.edu/index.shtm
+19.	Dynamic Brain Platform(Japan): Different Neuron Models http://dynamicbrain.neuroinf.jp/modules/xoonips/itemselect.php?op=itemtypesearch&search_itemtype=xnpmodel
+20.	Open Source Brain is a resource for sharing and collaboratively developing computational models of neural systems: http://www.opensourcebrain.org/
+
+
